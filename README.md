@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/juliobsz/juliobsz/banner.png" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/juliobsz/juliobsz/main/banner.png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">From frontend development using VueJS to backend development using NodeJS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>backend junior developer</strong> focused on web and api development.</p>&nbsp;
