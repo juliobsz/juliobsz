@@ -1,4 +1,3 @@
-<img width="941" height="552" alt="image" src="https://github.com/user-attachments/assets/95757858-915e-4aec-a1a0-2ce222603e55" />
 <img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/juliobsz/juliobsz/main/banner.png" />
 &nbsp;&nbsp;&nbsp;
 
