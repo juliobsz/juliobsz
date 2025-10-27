@@ -1,4 +1,4 @@
-
+<img width="941" height="552" alt="image" src="https://github.com/user-attachments/assets/95757858-915e-4aec-a1a0-2ce222603e55" />
 <img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/juliobsz/juliobsz/main/banner.png" />
 &nbsp;&nbsp;&nbsp;
 
@@ -23,11 +23,14 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Vue.js](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)&nbsp;
 ![TailWind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=whit)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
@@ -36,6 +39,7 @@
 #### Databases:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
 
 #### Workstation Tools:
@@ -50,7 +54,5 @@
 <div> 
 <a href="mailto:juliobrsouza@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/juliobsz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/DZgN2Rf7FC" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-</div>&nbsp;&nbsp;
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8c52ff&height=120&section=footer"/>
