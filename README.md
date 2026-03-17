@@ -4,8 +4,8 @@
 <p align="center">From frontend development using VueJS to backend development using NodeJS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack junior developer</strong> focused on web and api development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=juliobsz&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=juliobsz&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="github-readme-streak-stats-juliobsz.vercel.app?user=juliobsz&theme=radical&mode=weekly" />
+<img width=40% align="center" src="github-readme-stats-juliobsz.vercel.app/api/top-langs/?username=juliobsz&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
