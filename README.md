@@ -7,13 +7,14 @@
 - Vue / Nuxt.js
 - React / Next.js
 - GSAP, Tailwind CSS, Bootstrap
+- Joomla 5, PHP
 - Figma, Polypane
 
 ### Back-End & DevOps
 - TypeScript
 - Python
 - Node.js / Express
-- MongoDB, PostgreSQL, SQL Server
+- MongoDB, PostgreSQL, SQL Server, Firebase
 - Docker, AWS, Azure
 - Postman, Caido
 
