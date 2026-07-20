@@ -13,7 +13,7 @@
 ### Back-End & DevOps
 - TypeScript
 - Python
-- Node.js / Express
+- Node.js / Express / Nest.js
 - MongoDB, PostgreSQL, SQL Server, Firebase
 - Docker, AWS, Azure
 - Postman, Caido
